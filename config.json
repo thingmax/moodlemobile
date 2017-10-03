@@ -1,5 +1,5 @@
 {
-"app_id" : "com.moodle.moodlemobile",
+"app_id" : "net.moodlemoot.imoot2015",
 "versioncode" : "2",
 "versionname" : "1.15",
 "cache_expiration_time" : 300000,
@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource", "assign"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "", "username": ""},
+"presets" : {"https://github.com/thingmax/moodlemobile/edit/imoot2015/config.json": "", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
